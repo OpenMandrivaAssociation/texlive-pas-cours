@@ -1,12 +1,6 @@
-# revision 32444
-# category Package
-# catalog-ctan /macros/latex/contrib/pas-cours
-# catalog-date 2013-12-05 10:50:59 +0100
-# catalog-license lppl
-# catalog-version 1.06
 Name:		texlive-pas-cours
-Version:	1.06
-Release:	5
+Version:	1.6
+Release:	1
 Summary:	Macros useful in preparing teaching material
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pas-cours
@@ -32,15 +26,8 @@ mathematics.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/pas-cours/pas-cours.sty
-%doc %{_texmfdistdir}/doc/latex/pas-cours/README
-%doc %{_texmfdistdir}/doc/latex/pas-cours/README.TEXLIVE
-%doc %{_texmfdistdir}/doc/latex/pas-cours/attention.png
-%doc %{_texmfdistdir}/doc/latex/pas-cours/coeur.png
-%doc %{_texmfdistdir}/doc/latex/pas-cours/macro-patrons.tex
-%doc %{_texmfdistdir}/doc/latex/pas-cours/macro-solides.tex
-%doc %{_texmfdistdir}/doc/latex/pas-cours/macro-styles.tex
-%doc %{_texmfdistdir}/doc/latex/pas-cours/prerequis.png
+%{_texmfdistdir}/tex/latex/pas-cours
+%doc %{_texmfdistdir}/doc/latex/pas-cours
 
 #-----------------------------------------------------------------------
 %prep
