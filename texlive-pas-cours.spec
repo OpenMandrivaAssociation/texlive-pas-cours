@@ -1,6 +1,6 @@
 Name:		texlive-pas-cours
 Version:	1.6
-Release:	1
+Release:	2
 Summary:	Macros useful in preparing teaching material
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pas-cours
