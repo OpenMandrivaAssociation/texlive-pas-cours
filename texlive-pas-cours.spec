@@ -3,7 +3,7 @@ Version:	55859
 Release:	2
 Summary:	Macros useful in preparing teaching material
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pas-cours
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pas-cours
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pas-cours.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pas-cours.doc.r%{version}.tar.xz
